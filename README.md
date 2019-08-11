@@ -2,12 +2,11 @@
 Gripper Data Visualization and Anomaly Detection 
 
 
-##Prerequisites
-
-Anaconda
-Panda
-Matplotlib
-Python3+
-Seaborn
+**Prerequisites**
+-   python 3+
+-   Anaconda
+-   Matplotlib
+-   Seaborn
+-   Panda
 
 
