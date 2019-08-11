@@ -10,3 +10,6 @@ Gripper Data Visualization and Anomaly Detection
 -   Panda
 
 
+**How to run**
+```python pick_data_processing.py```
+
