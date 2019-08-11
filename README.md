@@ -1,7 +1,9 @@
 # hds
 Gripper Data Visualization and Anomaly Detection 
 
-Prerequisites
+
+##Prerequisites
+
 Anaconda
 Panda
 Matplotlib
